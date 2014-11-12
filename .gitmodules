@@ -1,0 +1,3 @@
+[submodule "shared/QmlComponants"]
+	path = shared/QmlComponants
+	url = https://github.com/think-free/QmlComponants.git
